@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**8uhr-ai/8uhr-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Arthur Reis 👋
 
-Here are some ideas to get you started:
+[![Status](https://img.shields.io/badge/Status-Under%20Construction-orange?style=for-the-badge&logo=git&logoColor=white)](https://github.com/8uhr-ai)
+[![Profile Views](https://komarev.com/normal-badge/?username=8uhr-ai&color=blue&style=for-the-badge)](https://github.com/8uhr-ai)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+### 🚧 Remodeling in Progress 🚧
+*I am currently refactoring my projects and building a fresh new profile page. Stay tuned!*
+
+<br>
+
+---
+
+### Connect with me 📬
+[![GitHub](https://img.shields.io/badge/GitHub-8uhr--ai-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/8uhr-ai)
+[![Email](https://img.shields.io/badge/Email-arthur.reis%40example.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:arthur.reis@example.com)
+
+<br>
+
+<img src="https://media.giphy.com/media/QHE5gWI0Q3Ry5ZLZ35/giphy.gif" width="380" alt="Building...">
+
+</div>
