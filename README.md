@@ -6,17 +6,6 @@
 
 <br>
 
-*I am currently refactoring my projects and building a fresh new profile page. Stay tuned!*
-
-<br>
-
----
-
-### Connect
-[![GitHub](https://img.shields.io/badge/GitHub-8uhr--ai-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/8uhr-ai)
-
-<br>
-
-<img src="https://media.giphy.com/media/QHE5gWI0Q3Ry5ZLZ35/giphy.gif" width="380" alt="Building...">
+*I am currently gradually refactoring my personal and academic projects for this fresh profile. As time allows, I am going through my codebase to isolate valuable pieces of logic, package them, and turn them into clean, modular, and reusable code. Stay tuned!*
 
 </div>
