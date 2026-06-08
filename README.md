@@ -6,6 +6,8 @@
 
 <br>
 
-*I am currently gradually refactoring my personal and academic projects for this fresh profile. As time allows, I am going through my codebase to isolate valuable pieces of logic, package them, and turn them into clean, modular, and reusable code. Stay tuned!*
+*I am currently gradually refactoring my personal and academic projects for this fresh profile. 
+As time allows, I am going through my codebase to isolate valuable pieces of logic, package them, and turn them into clean, modular, and reusable code. 
+Stay tuned!*
 
 </div>
